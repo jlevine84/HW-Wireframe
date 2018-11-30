@@ -1,1 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+}
 
+.header, .nav, .footer {
+    background: #ebebeb;
+    height: 100px;
+}
+
+h1, p {
+    color: #7777;
+    background: #ebebeb;   
+}
+
+.section {
+    width: 500px;
+    height: 300px;
+}
+
+.article {
+    width: 450px;
+    height: 200px;
+    color: #ebebeb;
+    background: #777;
+    padding-bottom: 50px;
+}
